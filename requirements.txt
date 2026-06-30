@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+rdkit
+transformers
+torch
+huggingface-hub
+joblib
